@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/gkuo88/chica/megumin/body"
+	"$alphatest" "1"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$lightwarptexture"		"models/player/gkuo88/chica/megumin/lightwarp"
+}

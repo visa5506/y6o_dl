@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/kaesar/amongus/black"
+	"$bumpmap" "models/kaesar/amongus/normal"
+$nocull "1"
+	"$lightwarptexture" "models/kaesar/amongus/lightwarptexture"
+
+	
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
