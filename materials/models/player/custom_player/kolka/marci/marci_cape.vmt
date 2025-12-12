@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+    "$basetexture"    "models/player/custom_player/kolka/marci/marci_cape"
+       "$bumpmap"      "models/player/custom_player/kolka/marci/marci_cape_n"
+
+}
